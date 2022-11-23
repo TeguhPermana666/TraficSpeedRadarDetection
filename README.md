@@ -46,5 +46,6 @@ crossing the speed limit is segregated into a separate folder.
 5. Summary
 The vehicle data is saved in a text file. The vehicles that exceeded the speed limit are pointed. A 
 summary of number of vehicles and the speed violators are displayed
+
 ![image](https://user-images.githubusercontent.com/87234353/203465209-fef3a913-e421-4d4a-a518-0e8e2e87d57f.png)
 
